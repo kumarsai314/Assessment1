@@ -1,3 +1,4 @@
+print(' Factorial of a number')
 f=1
 x= int(input('Enter a number:'))
 if x>0 :
