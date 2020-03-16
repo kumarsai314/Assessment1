@@ -1,3 +1,4 @@
+print('enter 3 number')
 x= int(input('Enter number 1:'))
 y= int(input('Enter number 2:'))
 z= int(input('Enter number 3:'))
